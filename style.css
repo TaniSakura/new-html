@@ -1,6 +1,15 @@
 body {
+
     background-color: dimgrey;
 }
 h1 {
-    color: green;
+    color: darkgreen;
+    border: 2px solid red;
+ text-align: center;
+}
+input{
+    display: block;
+}
+button{
+    display: block;
 }
